@@ -8,12 +8,12 @@ style.css: Template
 ### index.html  
 head: style.css  
 body:  
-&emsp;search-bar
+&emsp;search-bar  
 &emsp;&emsp;fixfilterContainer:  
-<br><br><br><br><br><br>search input  
-<br><br><br><br><br><br>check box of each attribute: The attributes that the user can search/filter for. Datatypes that could be searched/filtered for are: text, html text, enum, date, number, foreign key  
-<br><br><br><br>filterContainer:  
-<br><br><br><br><br><br>add-url function  
-<br><br><br><br><br><br>remove added url    
-<br><br>addFilterButton    
-<br><br>searchButton  
+&emsp;&emsp;&emsp;&emsp;search input  
+&emsp;&emsp;&emsp;&emsp;check box of each attribute: The attributes that the user can search/filter for. Datatypes that could be searched/filtered for are: text, html text, enum, date, number, foreign key  
+&emsp;&emsp;filterContainer:  
+&emsp;&emsp;&emsp;&emsp;add-url function  
+&emsp;&emsp;&emsp;&emsp;remove added url    
+&emsp;addFilterButton    
+&emsp;searchButton  

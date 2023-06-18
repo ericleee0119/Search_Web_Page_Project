@@ -1,7 +1,7 @@
 # Search_Web_Page_Project
 
 ## Function  
-This is the first page  
+Download the code and make sure the three files index.html,  script.js and style.css are in the same root. And clicked the index.html to open the program
 Type the search item in the search text  
 Click the check box(Support Multiple Choose) to indicate which filters we are going to use
 Past the URL to direct to the API  

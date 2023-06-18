@@ -2,12 +2,12 @@
 
 ## Function  
 This is the first page  
-Type the search item in the searh text  
-Click the check box(Support Multiple choose) to indicate which filters we are going to use
+Type the search item in the search text  
+Click the check box(Support Multiple Choose) to indicate which filters we are going to use
 Past the URL to direct to the API  
-Clicked filter can let us included multiple URLs  
-Remove button can let us remove the URLs  
-Last, we can click search button to begin 
+Add filter can let us include multiple URLs  
+The remove button can let us remove the URLs  
+Last, we can click the search button to begin 
 ![image](https://github.com/ericleee0119/Search_Web_Page_Project/blob/main/img/0.png)  
 
 ### Example

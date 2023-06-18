@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Bar with Multiple Filters</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div class="search-bar">
+		
+		<div id="fixfilterContainer">
+			<input type="text" class="search-input" placeholder="Search...">
+            <div class="fix-filter-row">
+				<input type="checkbox" id="textCheckbox" class="filter-checkbox" value="text">
+                <label for="textCheckbox">Text</label>
+                <input type="checkbox" id="htmlCheckbox" class="filter-checkbox" value="html">
+                <label for="htmlCheckbox">HTML Text</label>
+                <input type="checkbox" id="enumCheckbox" class="filter-checkbox" value="enum">
+                <label for="enumCheckbox">Enum</label>
+                <input type="checkbox" id="dateCheckbox" class="filter-checkbox" value="date">
+                <label for="dateCheckbox">Date</label>
+                <input type="checkbox" id="numberCheckbox" class="filter-checkbox" value="number">
+                <label for="numberCheckbox">Number</label>
+                <input type="checkbox" id="fkCheckbox" class="filter-checkbox" value="foreign_key">
+                <label for="fkCheckbox">Foreign Key</label>
+                <input type="checkbox" id="imagesCheckbox" class="filter-checkbox" value="images">
+                <label for="imagesCheckbox">Images</label>
+			</div>
+        </div>
+        <div id="filterContainer">
+            <div class="filter-row">
+                
+                <input type="text" class="add-url" placeholder="Add URL...">
+                <button class="remove-filter">Remove</button>
+            </div>
+        </div>
+        <button id="addFilterButton">Add Filter</button>
+        <button id="searchButton">Search</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

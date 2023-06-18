@@ -11,7 +11,7 @@ body:
 &emsp;search-bar  
 &emsp;&emsp;fixfilterContainer:  
 &emsp;&emsp;&emsp;&emsp;search input  
-&emsp;&emsp;&emsp;&emsp;check box of each attribute: The attributes that the user can search/filter for. Datatypes that could be searched/filtered for are: text, html text, enum, date, number, foreign key  
+&emsp;&emsp;&emsp;&emsp;check box of each attribute: Filters: text, html text, enum, date, number, foreign key  
 &emsp;&emsp;filterContainer:  
 &emsp;&emsp;&emsp;&emsp;add-url function  
 &emsp;&emsp;&emsp;&emsp;remove added url    

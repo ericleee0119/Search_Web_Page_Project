@@ -8,7 +8,7 @@ style.css: Template
 ### index.html  
 head: style.css  
 body:  
-<br><br>search-bar
+&emsp;search-bar
 <br><br><br><br>fixfilterContainer:  
 <br><br><br><br><br><br>search input  
 <br><br><br><br><br><br>check box of each attribute: The attributes that the user can search/filter for. Datatypes that could be searched/filtered for are: text, html text, enum, date, number, foreign key  

@@ -17,3 +17,12 @@ body:
 &emsp;&emsp;&emsp;&emsp;remove added url    
 &emsp;&emsp;addFilterButton    
 &emsp;&emsp;searchButton  
+
+### script.js  
+Here, we defined the action when we trigger the html  
+
+
+##Outlook  
+1. Build a beautiful UI  
+2. Do the fault torrent, when we input an invalid URL, we have not checked it  
+3. If the search item is empty, we should tell the user about this  

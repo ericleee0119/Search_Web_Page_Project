@@ -1,6 +1,29 @@
 # Search_Web_Page_Project
 
 ## Function  
+This is the first page  
+Type the search item in the searh text  
+Click the check box(Support Multiple choose) to indicate which filters we are going to use
+Past the URL to direct to the API  
+Clicked filter can let us included multiple URLs  
+Remove button can let us remove the URLs  
+Last, we can click search button to begin 
+![image](https://github.com/ericleee0119/Search_Web_Page_Project/blob/main/img/0.png)  
+
+### Example
+1. We want to search car  
+2. We include Enum and Images filters
+3. We add three URLs  
+![image](https://github.com/ericleee0119/Search_Web_Page_Project/blob/main/img/1.png)
+
+For the above example, we then click button  
+![image](https://github.com/ericleee0119/Search_Web_Page_Project/blob/main/img/2.png)
+
+Followed the above example, we remove https//test/2  
+The input will be  
+![image](https://github.com/ericleee0119/Search_Web_Page_Project/blob/main/img/3.png)
+And the output will be  
+![image](https://github.com/ericleee0119/Search_Web_Page_Project/blob/main/img/4.png)
 
 
 ## Architecture

@@ -25,4 +25,7 @@ Here, we defined the action when we trigger the html
 ##Outlook  
 1. Build a beautiful UI  
 2. Do the fault torrent, when we input an invalid URL, we have not checked it  
-3. If the search item is empty, we should tell the user about this  
+3. If the search item is empty, we should tell the user about this
+4. If we know our next page we will be directed to when we click the search button  
+    We should pass the input value include search input, checked box item, and the URLs to the next page  
+    Here, we can append the data in the web address or we can save it to the cookie  

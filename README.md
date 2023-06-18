@@ -1,5 +1,8 @@
 # Search_Web_Page_Project
 
+## Function  
+
+
 ## Architecture
 index.html: include the HTML format  
 script.js: the javascript code, with trigger event that will listen with the button on html  
@@ -22,7 +25,7 @@ body:
 Here, we defined the action when we trigger the html  
 
 
-##Outlook  
+## Outlook  
 1. Build a beautiful UI  
 2. Do the fault torrent, when we input an invalid URL, we have not checked it  
 3. If the search item is empty, we should tell the user about this
